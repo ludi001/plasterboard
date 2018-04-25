@@ -1,0 +1,809 @@
+.pagebox{
+    width:100%;
+    height:100%;
+    float:left;
+    margin-top: -0.7rem;
+    
+    .picbox{
+        width: 18.75rem;
+        height: 8.5rem;
+        margin-top: 1.34rem;
+        margin-left: 0.45rem;
+        background: url('../../img/comp/cl.png') no-repeat;
+        background-size:100% 100%;
+        position:relative;
+        .motorbox{
+            padding-top:2.5rem;
+            padding-left:18rem;
+            font-size:0.2rem;
+            position:absolute;
+            .motor01{
+                position:absolute;
+                margin-top:-2rem;
+                margin-left:-1.96rem;
+                /* Rotate div */
+                transform: rotateY(180deg);
+                -ms-transform: rotateY(180deg); /* Internet Explorer */
+                -moz-transform: rotateY(180deg); /* Firefox */
+                -webkit-transform: rotateY(180deg); /* Safari 和 Chrome */
+                -o-transform: rotateY(180deg); /* Opera */
+            }
+            
+        }
+        .ljll{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:5.5rem;
+            margin-top:3.8rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 5s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .pdcll{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:5.5rem;
+            margin-top:3.5rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 4s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .pdczl{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:5.5rem;
+            margin-top:2.7rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 3s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .pdc{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:1.3rem;
+            margin-top:3.1rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 7s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .trqfmkd{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:9.7rem;
+            margin-top:-0.1rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 6s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .gffmkd{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:7.6rem;
+            margin-top:-0.1rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 5s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .hffkd{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:8.6rem;
+            margin-top:1.6rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 4s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .hfwd{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:11.4rem;
+            margin-top:0.5rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 3s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .rsqckwd{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:8.3rem;
+            margin-top:0.97rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 7s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .rsqwd{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:8.2rem;
+            margin-top:2rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 6s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .dsc1qgd{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:13.6rem;
+            margin-top:3.2rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:0.5rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 5s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .dsc2qgd{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:14.2rem;
+            margin-top:3.2rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:0.5rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 4s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .dsc3qgd{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:14.8rem;
+            margin-top:3.2rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:0.5rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 3s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .dscckyl{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:15.9rem;
+            margin-top:2.3rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 7s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .csdsjdl{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:7.8rem;
+            margin-top:4.5rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 6s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .dsc1qecdy{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:13.6rem;
+            margin-top:2.97rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:0.5rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 5s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .dsc2qecdy{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:14.2rem;
+            margin-top:2.97rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:0.5rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 4s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .dsc3qecdy{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:14.8rem;
+            margin-top:2.97rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 3s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .dsc1qecdl{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:13.6rem;
+            margin-top:2.7rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:0.5rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 7s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .dsc2qecdl{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:14.2rem;
+            margin-top:2.7rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:0.5rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 6s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .dsc3qecdl{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:14.8rem;
+            margin-top:2.7rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 5s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .csdsjrkyw{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:12.9rem;
+            margin-top:1.1rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 4s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .csdsjcklw{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:9.9rem;
+            margin-top:2.2rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 3s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .ryhhjckyl{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:8.4rem;
+            margin-top:2.5rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 7s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .csdsjckyl{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:10.9rem;
+            margin-top:3.2rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 6s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .qmjdl{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:6.6rem;
+            margin-top:7.3rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 5s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .qmjcklw{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:4.7rem;
+            margin-top:7.5rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 4s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .zyfjdl{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:14.9rem;
+            margin-top:0.9rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 3s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .zyfjkd{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:14.9rem;
+            margin-top:0.5rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 7s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .fqfmkd{
+            position:absolute;
+            width:2.7rem;
+            height:0.5rem;
+            margin-left:16.6rem;
+            margin-top:0.5rem;
+            color:white;
+            font-size:0.2rem;
+            span{
+                height:0.3rem;
+                width:1.2rem;
+                background: #88eeee;
+                text-align:center;
+                line-height: .26rem;
+                display: inline-block;
+                color:#000000;
+                font-weight: bold;
+                border-radius: 3px;
+                box-shadow: 0px 0px 5px #fff;
+                animation: myLight 6s;
+                animation-iteration-count: infinite;
+            }
+        }
+        .csdsjyx{
+            position:absolute;
+            width:1.22rem;
+            height:1.22rem;
+            margin-top:3.44rem;
+            margin-left:8.15rem;
+            background: url('../../img/comp/fm.png');
+            background-size: 100% 100%;
+            animation:rotating 1.2s linear infinite
+        }
+        .csdsj{
+            position:absolute;
+            width:1.22rem;
+            height:1.22rem;
+            margin-top:3.44rem;
+            margin-left:8.15rem;
+            background: url('../../img/comp/fm.png');
+            background-size: 100% 100%;
+            
+        }
+        .rsqyx{
+            position:absolute;
+            width:0.6rem;
+            height:0.3rem;
+            margin-top:0.68rem;
+            margin-left:8.11rem;
+            background: url('../../img/comp/rsqyx.png');
+            background-size: 100% 100%;
+        }
+        .rsqtz{
+            position:absolute;
+            width:0.6rem;
+            height:0.3rem;
+            margin-top:0.68rem;
+            margin-left:8.11rem;
+            background: url('../../img/comp/rsqtz.png');
+            background-size: 100% 100%;
+        }
+        .pd{
+            position:absolute;
+            width:5.8rem;
+            height:0.5rem;
+            margin-top:3rem;
+            margin-left:2.16rem;
+            background: green;
+            animation: Light 4s;
+            animation-iteration-count: infinite;
+        }
+        .jd{
+            position:absolute;
+            width:2.06rem;
+            height:0.3rem;
+            margin-top:5.46rem;
+            margin-left:16.38rem;
+            background: green;
+            animation: Light 5s;
+            animation-iteration-count: infinite;
+        }
+        img{
+            position:absolute;
+            width:0.9rem;
+            height:1rem;
+            margin-top:0.2rem;
+            margin-left:1.3rem;
+            cursor:pointer
+        }
+
+        
+    }
+    
+}
+
+@keyframes myLight
+{
+  0% {background: rgba(136,238,238,1);}
+  60% {background: rgba(136,238,238,0.5);}
+  100% {background: rgba(136,238,238,1);}
+}
+@keyframes rotating{
+from{transform:rotate(0)}
+to{transform:rotate(360deg)}
+}
+@keyframes Light
+{
+  from {opacity: 0;}
+  to {opacity: 0.5;}
+}

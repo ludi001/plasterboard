@@ -1,0 +1,748 @@
+.pagebox{
+    width:100%;
+    height:100%;
+    float:left;
+    position:relative;
+    margin-top:-0.7rem;
+    
+    .picbox{
+        width: 18.76rem;
+        height: 8.5rem;
+        margin-top:1.33rem;
+        margin-left:0.27rem;
+        background: url('../../img/comp/ek.png') no-repeat;
+        background-size:100% 100%;
+        position:relative;
+        .motorbox{
+            padding-top:2.5rem;
+            padding-left:18rem;
+            font-size:0.2rem;
+            position:absolute;
+            .motor01{
+                position:absolute;
+                margin-top:-0.3rem;
+                margin-left:-1.7rem;
+                transform: rotate3d(0,0,-1,90deg);
+            }
+            .motor02{
+                position:absolute;
+                margin-top:-0.3rem;
+                margin-left:-3.53rem;
+                transform: rotate3d(0,0,-1,90deg);
+            }
+            .motor03{
+                position:absolute;
+                margin-top:-0.3rem;
+                margin-left:-5.45rem;
+                transform: rotate3d(0,0,-1,90deg);
+            }
+            .motor04{
+                position:absolute;
+                margin-top:-0.57rem;
+                margin-left:-7.45rem;
+                transform: rotate3d(0,0,-1,90deg);
+            }
+            .motor05{
+                position:absolute;
+                margin-top:-0.64rem;
+                margin-left:-11.9rem;
+                transform: rotate3d(0,0,-1,90deg);
+            }
+            .motor06{
+                position:absolute;
+                margin-top:-0.64rem;
+                margin-left:-12.7rem;
+                transform: rotate3d(0,0,-1,90deg);
+            }
+            .motor07{
+                position:absolute;
+                margin-top:-0.64rem;
+                margin-left:-13.52rem;
+                transform: rotate3d(0,0,-1,90deg);
+            }
+            .motor08{
+                position:absolute;
+                margin-top:-0.64rem;
+                margin-left:-14.3rem;
+                transform: rotate3d(0,0,-1,90deg);
+            }
+            .motor09{
+                position:absolute;
+                margin-top:-0.64rem;
+                margin-left:-15.13rem;
+                transform: rotate3d(0,0,-1,90deg);
+            }
+            .motor10{
+                position:absolute;
+                margin-top:-2.38rem;
+                margin-left:-17.3rem;
+                transform: rotate3d(0,0,1,90deg);
+            }
+            .motor11{
+                position:absolute;
+                margin-top:-0.52rem;
+                margin-left:-16.93rem;
+            }
+            .motor12{
+                position:absolute;
+                margin-top:0.32rem;
+                margin-left:-17.15rem;
+            }
+            .motor13{
+                position:absolute;
+                margin-top:-0.57rem;
+                margin-left:-8.73rem;
+                transform: rotate3d(0,0,-1,90deg);
+            }
+            .motor14{
+                position:absolute;
+                margin-top:-0.6rem;
+                margin-left:-18rem;
+                transform: rotate(270deg);
+            }
+            .motor15{
+                position:absolute;
+                margin-top:-0.85rem;
+                margin-left:-15.12rem;
+                transform: rotateY(180deg);
+            }
+            .motor16{
+                position:absolute;
+                margin-top:1.22rem;
+                margin-left:-16.7rem;
+                transform: rotate(270deg);
+            }
+        }   
+    
+        .firebox3{
+           width: 1.3rem;
+            height: 0.74rem;
+            position: absolute;
+            left: 9.3rem;
+            bottom: 3.6rem;
+            background:url('../../img/comp/fire.png') no-repeat;
+            background-size:100% 100%;
+                animation: myLight 1s;
+                    animation-iteration-count: infinite;
+        }
+        .firebox03{
+           width: 1.3rem;
+            height: 0.74rem;
+            position: absolute;
+            left: 9.3rem;
+            bottom: 3.6rem;
+            background:url('../../img/comp/fire.png') no-repeat;
+            background-size:100% 100%;
+                
+        }
+        .firebox2{
+           width: 1.3rem;
+            height: 0.74rem;
+            position: absolute;
+            left: 6.7rem;
+            bottom: 3.6rem;
+            background:url('../../img/comp/fire.png') no-repeat;
+            background-size:100% 100%;
+                animation: myLight 1s;
+                    animation-iteration-count: infinite;
+        }
+        .firebox02{
+           width: 1.3rem;
+            height: 0.74rem;
+            position: absolute;
+            left: 6.7rem;
+            bottom: 3.6rem;
+            background:url('../../img/comp/fire.png') no-repeat;
+            background-size:100% 100%;
+                
+        }
+        .firebox{
+           width: 1.3rem;
+            height: 0.74rem;
+            position: absolute;
+            left: 4.3rem;
+            bottom: 3.6rem;
+            background:url('../../img/comp/fire.png') no-repeat;
+            background-size:100% 100%;
+                animation: myLight 1s;
+                    animation-iteration-count: infinite;
+        }
+        .firebox01{
+           width: 1.3rem;
+            height: 0.74rem;
+            position: absolute;
+            left: 4.3rem;
+            bottom: 3.6rem;
+            background:url('../../img/comp/fire.png') no-repeat;
+            background-size:100% 100%;
+                
+        }
+        .ban{
+            //animation: myLight 1s;
+            //animation-iteration-count: infinite;
+            position:absolute;
+            opacity: 0.5;
+            .jinban10{
+                position:absolute;
+                height:0.3rem;
+                width:1.76rem;
+                margin-left:1.92rem;
+                margin-top:4.36rem;
+                background:green;   
+            }
+            .jinban9{
+                position:absolute;
+                height:0.3rem;
+                width:1.76rem;
+                margin-left:1.92rem;
+                margin-top:4.68rem;
+                background:green;   
+            }
+            .jinban8{
+                position:absolute;
+                height:0.3rem;
+                width:1.76rem;
+                margin-left:1.92rem;
+                margin-top:5rem;
+                background:green;   
+            }
+            .jinban7{
+                position:absolute;
+                height:0.3rem;
+                width:1.76rem;
+                margin-left:1.92rem;
+                margin-top:5.35rem;
+                background:green;   
+            }
+            .jinban6{
+                position:absolute;
+                height:0.3rem;
+                width:1.76rem;
+                margin-left:1.92rem;
+                margin-top:5.67rem;
+                background:green;   
+            }
+            .jinban5{
+                position:absolute;
+                height:0.3rem;
+                width:1.76rem;
+                margin-left:1.92rem;
+                margin-top:6rem;
+                background:green;   
+            }
+            .jinban3{
+                position:absolute;
+                height:0.3rem;
+                width:1.76rem;
+                margin-left:1.92rem;
+                margin-top:6.67rem;
+                background:green;   
+            }
+            .jinban4{
+                position:absolute;
+                height:0.3rem;
+                width:1.76rem;
+                margin-left:1.92rem;
+                margin-top:6.34rem;
+                background:green;   
+            }
+            .jinban2{
+                position:absolute;
+                height:0.3rem;
+                width:1.76rem;
+                margin-left:1.92rem;
+                margin-top:6.99rem;
+                background:green;   
+            }
+            .jinban1{
+                position:absolute;
+                height:0.3rem;
+                width:1.76rem;
+                margin-left:1.92rem;
+                margin-top:7.32rem;
+                background:green;   
+            }
+            .tingban1{
+               position:absolute;
+                height:0.3rem;
+                width:1.4rem;
+                margin-left:14.5rem;
+                margin-top:7.4rem;
+                background:green; 
+            }
+            .tingban2{
+               position:absolute;
+                height:0.3rem;
+                width:1.4rem;
+                margin-left:14.5rem;
+                margin-top:7.06rem;
+                background:green; 
+            }
+            .tingban3{
+               position:absolute;
+                height:0.3rem;
+                width:1.4rem;
+                margin-left:14.5rem;
+                margin-top:6.75rem;
+                background:green; 
+            }
+            .tingban4{
+               position:absolute;
+                height:0.3rem;
+                width:1.4rem;
+                margin-left:14.5rem;
+                margin-top:6.42rem;
+                background:green; 
+            }
+            .tingban5{
+               position:absolute;
+                height:0.3rem;
+                width:1.4rem;
+                margin-left:14.5rem;
+                margin-top:6.09rem;
+                background:green; 
+            }
+            .tingban6{
+               position:absolute;
+                height:0.3rem;
+                width:1.4rem;
+                margin-left:14.5rem;
+                margin-top:5.76rem;
+                background:green; 
+            }
+            .tingban7{
+               position:absolute;
+                height:0.3rem;
+                width:1.4rem;
+                margin-left:14.5rem;
+                margin-top:5.44rem;
+                background:green; 
+            }
+            .tingban8{
+               position:absolute;
+                height:0.3rem;
+                width:1.4rem;
+                margin-left:14.5rem;
+                margin-top:5.12rem;
+                background:green; 
+            }
+            .tingban9{
+               position:absolute;
+                height:0.3rem;
+                width:1.4rem;
+                margin-left:14.5rem;
+                margin-top:4.79rem;
+                background:green; 
+            }
+            .tingban10{
+               position:absolute;
+                height:0.3rem;
+                width:1.4rem;
+                margin-left:14.5rem;
+                margin-top:4.47rem;
+                background:green; 
+            }
+            .chuban1{
+               position:absolute;
+                height:0.17rem;
+                width:0.4rem;
+                margin-left:15.7rem;
+                margin-top:7.5rem;
+                background:green;
+                transform: rotate(238deg);
+            }
+            .chuban3{
+               position:absolute;
+                height:0.17rem;
+                width:0.8rem;
+                margin-left:15.6rem;
+                margin-top:7.2rem;
+                background:green;
+                transform: rotate(238deg);
+            }
+            .chuban4{
+               position:absolute;
+                height:0.17rem;
+                width:1.2rem;
+                margin-left:15.5rem;
+                margin-top:7.05rem;
+                background:green;
+                transform: rotate(238deg);
+            }
+            .chuban5{
+               position:absolute;
+                height:0.17rem;
+                width:1.6rem;
+                margin-left:15.4rem;
+                margin-top:6.8rem;
+                background:green;
+                transform: rotate(238deg);
+            }
+            .chuban6{
+               position:absolute;
+                height:0.17rem;
+                width:2.2rem;
+                margin-left:15.25rem;
+                margin-top:6.7rem;
+                background:green;
+                transform: rotate(238deg);
+            }
+            .chuban7{
+               position:absolute;
+                height:0.17rem;
+                width:2.5rem;
+                margin-left:15.2rem;
+                margin-top:6.5rem;
+                background:green;
+                transform: rotate(238deg);
+            }
+            .chuban8{
+               position:absolute;
+                height:0.17rem;
+                width:3rem;
+                margin-left:15.1rem;
+                margin-top:6.4rem;
+                background:green;
+                transform: rotate(238deg);
+            }
+            .chuban9{
+               position:absolute;
+                height:0.17rem;
+                width:3.5rem;
+                margin-left:14.9rem;
+                margin-top:6.1rem;
+                background:green;
+                transform: rotate(238deg);
+            }
+            .chuban10{
+               position:absolute;
+                height:0.17rem;
+                width:3.9rem;
+                margin-left:14.9rem;
+                margin-top:6.1rem;
+                background:green;
+                transform: rotate(238deg);
+            }
+            .chuban2{
+               position:absolute;
+                height:0.17rem;
+                width:0.6rem;
+                margin-left:15.7rem;
+                margin-top:7.3rem;
+                background:green;
+                transform: rotate(238deg);
+            }
+        }
+        .contro1{
+                position:absolute;
+                width:1.8rem;
+                height:0.5rem;
+                margin-left:4.43rem;
+                margin-top:7.1rem;
+                color:white;
+                font-size:0.2rem;
+                span{
+                    width:2.2rem;
+                    height:0.3rem;
+                    background: #88eeee;
+                    text-align:center;
+                    line-height: .26rem;
+                    display: inline-block;
+                    color:#000000;
+                    font-weight: bold;
+                    border-radius: 3px;
+                    box-shadow: 0px 0px 5px #fff;
+                    animation: wenziLight 3s;
+                    animation-iteration-count: infinite;
+
+                }   
+        }
+        .contro2{
+                position:absolute;
+                width:1.8rem;
+                height:0.5rem;
+                margin-left:7rem;
+                margin-top:7.1rem;
+                color:white;
+                font-size:0.2rem;
+                span{
+                    width:2.2rem;
+                    height:0.3rem;
+                    background: #88eeee;
+                    text-align:center;
+                    line-height: .26rem;
+                    display: inline-block;
+                    color:#000000;
+                    font-weight: bold;
+                    border-radius: 3px;
+                    box-shadow: 0px 0px 5px #fff;
+                    animation: wenziLight 4s;
+                    animation-iteration-count: infinite;
+                }   
+        }
+        .contro3{
+                position:absolute;
+                width:1.8rem;
+                height:0.5rem;
+                margin-left:9.63rem;
+                margin-top:6.8rem;
+                color:white;
+                font-size:0.2rem;
+                span{
+                    width:2.2rem;
+                    height:0.3rem;
+                    background: #88eeee;
+                    text-align:center;
+                    line-height: .26rem;
+                    display: inline-block;
+                    color:#000000;
+                    font-weight: bold;
+                    border-radius: 3px;
+                    box-shadow: 0px 0px 5px #fff;
+                    animation: wenziLight 5s;
+                    animation-iteration-count: infinite;
+                }   
+        }
+        .return1{
+                position:absolute;
+                width:1.8rem;
+                height:0.5rem;
+                margin-left:4.44rem;
+                margin-top:6.78rem;
+                color:white;
+                font-size:0.2rem;
+                span{
+                    width:2.2rem;
+                    height:0.3rem;
+                    background: #88eeee;
+                    text-align:center;
+                    line-height: .26rem;
+                    display: inline-block;
+                    color:#000000;
+                    font-weight: bold;
+                    border-radius: 3px;
+                    box-shadow: 0px 0px 5px #fff;
+                    animation: wenziLight 6s;
+                    animation-iteration-count: infinite;
+                }   
+        }
+        .return2{
+                position:absolute;
+                width:1.8rem;
+                height:0.5rem;
+                margin-left:7.01rem;
+                margin-top:6.78rem;
+                color:white;
+                font-size:0.2rem;
+                span{
+                    width:2.2rem;
+                    height:0.3rem;
+                    background: #88eeee;
+                    text-align:center;
+                    line-height: .26rem;
+                    display: inline-block;
+                    color:#000000;
+                    font-weight: bold;
+                    border-radius: 3px;
+                    box-shadow: 0px 0px 5px #fff;
+                    animation: wenziLight 7s;
+                    animation-iteration-count: infinite;
+                }   
+        }
+        .return3{
+                position:absolute;
+                width:1.8rem;
+                height:0.5rem;
+                margin-left:12.23rem;
+                margin-top:6.79rem;
+                color:white;
+                font-size:0.2rem;
+                span{
+                    width:2.2rem;
+                    height:0.3rem;
+                    background: #88eeee;
+                    text-align:center;
+                    line-height: .26rem;
+                    display: inline-block;
+                    color:#000000;
+                    font-weight: bold;
+                    border-radius: 3px;
+                    box-shadow: 0px 0px 5px #fff;
+                    animation: wenziLight 3s;
+                    animation-iteration-count: infinite;
+                }   
+        }
+        .gzjspeed{
+                position:absolute;
+                width:2.5rem;
+                height:0.5rem;
+                margin-left:8.5rem;
+                margin-top:3.6rem;
+                color:white;
+                font-size:0.2rem;
+                span{
+                    width:3.5rem;
+                    height:0.3rem;
+                    background: #88eeee;
+                    text-align:center;
+                    line-height: .26rem;
+                    display: inline-block;
+                    color:#000000;
+                    font-weight: bold;
+                    border-radius: 3px;
+                    box-shadow: 0px 0px 5px #fff;
+                    animation: wenziLight 4s;
+                    animation-iteration-count: infinite;
+                }   
+        }
+        .pdspeed{
+                position:absolute;
+                width:1.8rem;
+                height:0.5rem;
+                margin-left:4.6rem;
+                margin-top:0.35rem;
+                color:white;
+                font-size:0.2rem;
+                span{
+                    width:2.5rem;
+                    height:0.3rem;
+                    background: #88eeee;
+                    text-align:center;
+                    line-height: .26rem;
+                    display: inline-block;
+                    color:#000000;
+                    font-weight: bold;
+                    border-radius: 3px;
+                    box-shadow: 0px 0px 5px #fff;
+                    animation: wenziLight 5s;
+                    animation-iteration-count: infinite;
+                }   
+        }
+        .boardNum{
+                position:absolute;
+                width:4rem;
+                height:0.5rem;
+                margin-left:9.5rem;
+                margin-top:0.1rem;
+                color:white;
+                font-size:0.2rem;
+                span{
+                    width:4rem;
+                    height:0.3rem;
+                    background: #88eeee;
+                    text-align:center;
+                    line-height: .26rem;
+                    display: inline-block;
+                    color:#000000;
+                    font-weight: bold;
+                    border-radius: 3px;
+                    box-shadow: 0px 0px 5px #fff;
+                    animation: wenziLight 6s;
+                    animation-iteration-count: infinite;
+                }
+        }
+        .bridge{
+            position:absolute;
+            .nosign{
+                width:1.5rem;
+                height:5.4rem;
+                margin-top:2.6rem;
+                margin-left:0.59rem;
+                background:url("../../img/comp/bridge.png");
+                background-size: 100% 100%;
+            }
+            .bridge1{
+                width:1.5rem;
+                height:5.4rem;
+                margin-top:2.26rem;
+                margin-left:0.59rem;
+                background:url("../../img/comp/bridge.png");
+                background-size: 100% 100%;
+            }
+            .bridge2{
+                width:1.5rem;
+                height:5.4rem;
+                margin-top:1.94rem;
+                margin-left:0.59rem;
+                background:url("../../img/comp/bridge.png");
+                background-size: 100% 100%;
+            }
+            .bridge3{
+                width:1.5rem;
+                height:5.4rem;
+                margin-top:1.6rem;
+                margin-left:0.59rem;
+                background:url("../../img/comp/bridge.png");
+                background-size: 100% 100%;
+            }
+            .bridge4{
+                width:1.5rem;
+                height:5.4rem;
+                margin-top:1.28rem;
+                margin-left:0.59rem;
+                background:url("../../img/comp/bridge.png");
+                background-size: 100% 100%;
+            }
+            .bridge5{
+                width:1.5rem;
+                height:5.4rem;
+                margin-top:0.95rem;
+                margin-left:0.59rem;
+                background:url("../../img/comp/bridge.png");
+                background-size: 100% 100%;
+            }
+            .bridge6{
+                width:1.5rem;
+                height:5.4rem;
+                margin-top:0.61rem;
+                margin-left:0.59rem;
+                background:url("../../img/comp/bridge.png");
+                background-size: 100% 100%;
+            }
+            .bridge7{
+                width:1.5rem;
+                height:5.4rem;
+                margin-top:0.28rem;
+                margin-left:0.59rem;
+                background:url("../../img/comp/bridge.png");
+                background-size: 100% 100%;
+            }
+            .bridge8{
+                width:1.5rem;
+                height:5.4rem;
+                margin-top:-0.06rem;
+                margin-left:0.59rem;
+                background:url("../../img/comp/bridge.png");
+                background-size: 100% 100%;
+            }
+            .bridge9{
+                width:1.5rem;
+                height:5.4rem;
+                margin-top:-0.39rem;
+                margin-left:0.59rem;
+                background:url("../../img/comp/bridge.png");
+                background-size: 100% 100%;
+            }
+            .bridge10{
+                width:1.5rem;
+                height:5.4rem;
+                margin-top:-0.72rem;
+                margin-left:0.59rem;
+                background:url("../../img/comp/bridge.png");
+                background-size: 100% 100%;
+            }
+        }
+    }
+}
+
+@keyframes myLight
+{
+  from {opacity: 0;}
+  to {opacity: 0.5;}
+}
+@keyframes wenziLight
+{
+  0% {background: rgba(136,238,238,1);}
+  60% {background: rgba(136,238,238,0.5);}
+  100% {background: rgba(136,238,238,1);}
+}

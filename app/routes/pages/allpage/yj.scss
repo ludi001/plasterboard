@@ -1,0 +1,110 @@
+.pagebox{
+	width:100%;
+	height:100%;
+	background:#1c3144;
+	overflow:auto;
+	position: fixed;
+
+.pagebox1{
+	width:100%;
+	height:300%;
+	transform:scale(1,0.333);
+	transform-origin:0 0 0;
+	.titlename{
+		width:98%;
+		height:60px;
+		background:#52aac0;
+		line-height:60px;
+		color:#fff;
+		padding-left:0.2rem;
+		font-size:0.5rem;
+		margin:0.1rem auto;
+		 background: -webkit-linear-gradient(#53aec1, #4191aa); /* Safari 5.1 - 6.0 */
+		background: -o-linear-gradient(#53aec1, #4191aa); /* Opera 11.1 - 12.0 */
+		background: -moz-linear-gradient(#53aec1, #4191aa); /* Firefox 3.6 - 15 */
+		background: linear-gradient(#53aec1, #4191aa); /* 标准的语法 */
+		text-shadow:0px 0px 3px #333;
+	}
+	.tabbox{
+		width:98%;
+		background:#52aac0;
+		margin:auto;
+		border-top:1px solid #213d53;
+		border-left:1px solid #213d53;
+		tr{
+			th{
+				line-height:75px;
+				font-weight:normal;
+				font-size:0.4rem;
+				background:#4584af;
+				color:#fff;
+				text-shadow:0px 0px 3px #333;
+				
+				border-bottom:1px solid #213d53;
+			}
+			background:#365c6f;
+
+			td{
+				line-height:75px;
+				font-weight:normal;
+				font-size:0.5rem;
+				
+				color:#fff;
+				
+				text-align:center;
+				
+				border-bottom:1px solid #213d53;
+			}
+			
+		}
+		tr:nth-child(2n){
+				background:#294958;
+			}
+	}
+	.piebox{
+		width:98%;
+		height:720px;
+		margin: auto;
+		overflow:hidden;
+		.pie{
+			width:49%;
+			height:100%;
+			float:left;
+			background:#223c53;
+			.smtit{
+				width:100%;
+				height:70px;
+				box-shadow:0px 3px 5px #000;
+				
+				a{
+					height:100%;
+					width:260px;
+					display:block;
+					color:#fff;
+					text-align:center;
+					line-height:70px;
+					padding-left:30px;
+					font-size:0.5rem;
+					background: -webkit-linear-gradient(#53aec1, #4191aa); /* Safari 5.1 - 6.0 */
+					background: -o-linear-gradient(#53aec1, #4191aa); /* Opera 11.1 - 12.0 */
+					background: -moz-linear-gradient(#53aec1, #4191aa); /* Firefox 3.6 - 15 */
+					background: linear-gradient(#53aec1, #4191aa); /* 标准的语法 */
+					text-shadow:0px 0px 9px #333;
+				}
+			}
+			.cloumn{
+				width:98%;
+				height:485px;
+				margin-top:0.6rem;
+			
+			}
+			.cloumn1{
+				width:25%;
+				height:485px;
+				margin-top:45px;
+				float:left;
+			}
+		}
+	}
+}
+}

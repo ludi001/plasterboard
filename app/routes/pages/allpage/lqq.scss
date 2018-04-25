@@ -1,0 +1,201 @@
+.pagebox{
+    width:100%;
+    height:100%;
+    float:left;
+    margin-top: -0.7rem;
+    
+    .picbox{
+        width: 18.8rem;
+        height: 8.94rem;
+        margin-top: 1.57rem;
+        margin-left: 0.43rem;
+        background: url('../../img/comp/lqq.png') no-repeat;
+        background-size:100% 100%;
+        position:relative;
+        .motorbox{
+            padding-top:2.5rem;
+            padding-left:18rem;
+            font-size:0.2rem;
+            position:absolute;
+            
+            .motor02{
+                position:absolute;
+                margin-top:0.45rem;
+                margin-left:-10.14rem;
+                /* Rotate div */
+                transform: rotateY(180deg);
+                -ms-transform: rotateY(180deg); /* Internet Explorer */
+                -moz-transform: rotateY(180deg); /* Firefox */
+                -webkit-transform: rotateY(180deg); /* Safari 和 Chrome */
+                -o-transform: rotateY(180deg); /* Opera */
+            }
+            .motor03{
+                position:absolute;
+                margin-top:0.9rem;
+                margin-left:-10.14rem;
+                /* Rotate div */
+                transform: rotateY(180deg);
+                -ms-transform: rotateY(180deg); /* Internet Explorer */
+                -moz-transform: rotateY(180deg); /* Firefox */
+                -webkit-transform: rotateY(180deg); /* Safari 和 Chrome */
+                -o-transform: rotateY(180deg); /* Opera */
+            }
+            .motor04{
+                position:absolute;
+                margin-top:1.31rem;
+                margin-left:-10.14rem;
+                /* Rotate div */
+                transform: rotateY(180deg);
+                -ms-transform: rotateY(180deg); /* Internet Explorer */
+                -moz-transform: rotateY(180deg); /* Firefox */
+                -webkit-transform: rotateY(180deg); /* Safari 和 Chrome */
+                -o-transform: rotateY(180deg); /* Opera */
+            }
+            .motor05{
+                position:absolute;
+                margin-top:1.75rem;
+                margin-left:-10.14rem;
+                /* Rotate div */
+                transform: rotateY(180deg);
+                -ms-transform: rotateY(180deg); /* Internet Explorer */
+                -moz-transform: rotateY(180deg); /* Firefox */
+                -webkit-transform: rotateY(180deg); /* Safari 和 Chrome */
+                -o-transform: rotateY(180deg); /* Opera */
+            }
+            .motor06{
+                position:absolute;
+                margin-top:-0.36rem;
+                margin-left:0.33rem;
+                /* Rotate div */
+                transform: rotateY(180deg);
+                -ms-transform: rotateY(180deg); /* Internet Explorer */
+                -moz-transform: rotateY(180deg); /* Firefox */
+                -webkit-transform: rotateY(180deg); /* Safari 和 Chrome */
+                -o-transform: rotateY(180deg); /* Opera */
+            }
+            .motor07{
+                position:absolute;
+                margin-top:4.46rem;
+                margin-left:-2.35rem;
+                /* Rotate div */
+                transform: rotate3d(0,0,-1,90deg);
+                -ms-transform: rotate3d(0,0,-1,90deg); /* Internet Explorer */
+                -moz-transform: rotate3d(0,0,-1,90deg); /* Firefox */
+                -webkit-transform: rotate3d(0,0,-1,90deg); /* Safari 和 Chrome */
+                -o-transform: rotate3d(0,0,-1,90deg); /* Opera */
+            }
+            .motor08{
+                position:absolute;
+                margin-top:5.02rem;
+                margin-left:-1.21rem;
+                /* Rotate div */
+                transform: rotate3d(0,0,-1,90deg);
+                -ms-transform: rotate3d(0,0,-1,90deg); /* Internet Explorer */
+                -moz-transform: rotate3d(0,0,-1,90deg); /* Firefox */
+                -webkit-transform: rotate3d(0,0,-1,90deg); /* Safari 和 Chrome */
+                -o-transform: rotate3d(0,0,-1,90deg); /* Opera */
+            }
+            .motor09{
+                position: absolute;
+                margin-top: 0.88rem;
+                margin-left: -15.7rem;
+                /* Rotate div */
+                // transform: rotate3d(0,0,-1,90deg);
+                // -ms-transform: rotate3d(0,0,-1,90deg); /* Internet Explorer */
+                // -moz-transform: rotate3d(0,0,-1,90deg); /* Firefox */
+                // -webkit-transform: rotate3d(0,0,-1,90deg); /* Safari 和 Chrome */
+                // -o-transform: rotate3d(0,0,-1,90deg); 
+            }
+            .motor10{
+                position: absolute;
+                margin-top: 3.5rem;
+                margin-left: -15.3rem;
+             
+            }
+            .motor11{
+                position: absolute;
+                margin-top: 0.41rem;
+                margin-left: -11.8rem;
+                transform: rotateY(180deg);
+                -ms-transform: rotateY(180deg);
+                -moz-transform: rotateY(180deg);
+                -webkit-transform: rotateY(180deg);
+            }
+            .motor12{
+                position: absolute;
+                margin-top: 2.45rem;
+                margin-left: -13.47rem;
+                transform: rotate3d(0, 0, -1, 90deg);
+                -ms-transform: rotate3d(0, 0, -1, 90deg);
+                -moz-transform: rotate3d(0, 0, -1, 90deg);
+                -webkit-transform: rotate3d(0, 0, -1, 90deg);
+                -o-transform: rotate3d(0, 0, -1, 90deg);
+            }
+            .motor13{
+                position: absolute;
+                margin-top: 5.87rem;
+                margin-left: 0.73rem;
+                transform: rotateY(180deg);
+                -ms-transform: rotateY(180deg);
+                -moz-transform: rotateY(180deg);
+                -webkit-transform: rotateY(180deg);
+                -o-transform: rotateY(180deg);
+            }
+            .motor14{
+                position: absolute;
+                margin-top: 3.24rem;
+                margin-left: -0.3rem;
+                transform: rotateY(180deg);
+                -ms-transform: rotateY(180deg);
+                -moz-transform: rotateY(180deg);
+                -webkit-transform: rotateY(180deg);
+                -o-transform: rotateY(180deg);
+            }
+            .motor15{
+                position: absolute;
+                margin-top: 2.8rem;
+                margin-left: -2.5rem;
+            }
+            .lqqwenzi{
+                color: #d8d8d8;
+                font-size: 0.01rem;
+                border-bottom: 1px solid #7a8289;
+                position: absolute;
+                top: 8.4rem;
+                left: 17.4rem;
+            }
+            .jiantou1{
+                position:absolute;
+                width:0.9rem;
+                height:0.8rem;
+                margin-left: -15.1rem;
+                margin-top: -0.01rem;
+                background:url('../../img/comp/jiantou.png') no-repeat;
+                background-size:100% 100%;
+            }
+            .jiantou2{
+                position:absolute;
+                width:0.9rem;
+                height:0.8rem;
+                margin-left:-15.76rem;
+                margin-top:0.2rem;
+                background:url('../../img/comp/jiantou.png') no-repeat;
+                background-size:100% 100%;
+                transform:rotate(64deg);
+
+            }
+            
+            .wenzi{
+                position:absolute;
+                width:3rem;
+                height:0.5rem;
+                margin-top:3.8rem;
+                margin-left:-15.8rem;
+                font-size:0.1rem;
+                color: white;
+                text-decoration: underline;
+            }
+        }
+    }
+    
+}

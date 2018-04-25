@@ -1,0 +1,40 @@
+.pagebox{
+	position:absolute;
+	.tit{
+		padding:0.02rem 0.1rem;
+		height:0.25rem;
+		color:#fff;
+		span{
+			display:inline-block;
+			line-height:0.25rem;
+			width: 0.9rem;
+			text-align:right;
+
+		}
+		a{
+			display:inline-block;
+			width: 0.9rem;
+    		margin-left: 0.1rem;
+			text-align:center;
+			background:#1e3e67;
+			color:#fff;
+			box-shadow: 0px 0px 3px #ccc;
+		}
+	}
+	.tit1{
+		width:1.2rem;
+		color:#fff;
+		span{
+			display:inline-block;
+			width:100%;
+			line-height:0.25rem;
+
+		}
+		a{
+			display:inline-block;
+			text-align:center;
+			width:100%;
+			background:#f00;
+		}
+	}
+}

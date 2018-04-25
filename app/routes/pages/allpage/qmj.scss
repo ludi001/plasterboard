@@ -1,0 +1,129 @@
+.pagebox{
+    width:100%;
+    height:100%;
+    float:left;
+    margin-top:-0.7rem;
+    
+    .picbox{
+        width: 18.79rem;
+        height: 8.9rem;
+        margin-top: 1.1rem;
+        margin-left: -0.17rem;
+        background: url('../../img/comp/qmj.png') no-repeat;
+        background-size:100% 100%;
+        position:relative;
+        .motorbox{
+            padding-top:2.5rem;
+            padding-left:18rem;
+            font-size:0.2rem;
+            position:absolute;
+            .motor01{
+                position:absolute;
+                margin-top: 5.19rem;
+                margin-left: -17.15rem;
+            }
+            .motor02{
+                position:absolute;
+                margin-top: 5.68rem;
+                margin-left: -6.53rem;
+            }
+            .motor04{
+                position:absolute;
+                margin-top: -2.18rem;
+                margin-left: -5.5rem;
+                /* Rotate div */
+                transform:rotateY(180deg);
+                -ms-transform:rotateY(180deg); /* Internet Explorer */
+                -moz-transform:rotateY(180deg); /* Firefox */
+                -webkit-transform:rotateY(180deg); /* Safari 和 Chrome */
+                -o-transform:rotateY(180deg); /* Opera */
+            }
+            .motor05{
+                position:absolute;
+                margin-top: -1.06rem;
+                margin-left: 0.48rem;
+                /* Rotate div */
+                transform:rotateY(180deg);
+                -ms-transform:rotateY(180deg); /* Internet Explorer */
+                -moz-transform:rotateY(180deg); /* Firefox */
+                -webkit-transform:rotateY(180deg); /* Safari 和 Chrome */
+                -o-transform:rotateY(180deg); /* Opera */
+            }
+            .motor06{
+                position:absolute;
+                margin-top: 0.86rem;
+                margin-left: -10.25rem;
+            }
+            .motor07{
+                position:absolute;
+                margin-top: 1.29rem;
+                margin-left: -3.98rem;
+                /* Rotate div */
+                transform:rotateY(180deg);
+                -ms-transform:rotateY(180deg); /* Internet Explorer */
+                -moz-transform:rotateY(180deg); /* Firefox */
+                -webkit-transform:rotateY(180deg); /* Safari 和 Chrome */
+                -o-transform:rotateY(180deg); /* Opera */
+            }
+            .motor08{
+                position:absolute;
+                margin-top: 2.57rem;
+                margin-left: -11.19rem;
+            }
+            .motor09{
+                position:absolute;
+                margin-top: 2.65rem;
+                margin-left: -8.57rem;
+                /* Rotate div */
+                transform:rotateY(180deg);
+                -ms-transform:rotateY(180deg); /* Internet Explorer */
+                -moz-transform:rotateY(180deg); /* Firefox */
+                -webkit-transform:rotateY(180deg); /* Safari 和 Chrome */
+                -o-transform:rotateY(180deg); /* Opera */
+            }
+            .motor10{
+                position:absolute;
+                margin-top: 2.66rem;
+                margin-left: -6.63rem;
+            }
+            .motor11{
+                position:absolute;
+                margin-top: 2.7rem;
+                margin-left: -3.99rem;
+                /* Rotate div */
+                transform:rotateY(180deg);
+                -ms-transform:rotateY(180deg); /* Internet Explorer */
+                -moz-transform:rotateY(180deg); /* Firefox */
+                -webkit-transform:rotateY(180deg); /* Safari 和 Chrome */
+                -o-transform:rotateY(180deg); /* Opera */
+            }
+            .motor12{
+                position:absolute;
+                margin-top: 2.49rem;
+                margin-left: -15.75rem;
+            }
+            .motor13{
+                position:absolute;
+                margin-top: 4.07rem;
+                margin-left: -17.2rem;
+            }
+            .motor14{
+                position:absolute;
+                margin-top: 3.69rem;
+                margin-left: -13.39rem;
+            }
+            .motor15{
+                position:absolute;
+                margin-top: 3.68rem;
+                margin-left: -1.85rem;
+                /* Rotate div */
+                transform:rotateY(180deg);
+                -ms-transform:rotateY(180deg); /* Internet Explorer */
+                -moz-transform:rotateY(180deg); /* Firefox */
+                -webkit-transform:rotateY(180deg); /* Safari 和 Chrome */
+                -o-transform:rotateY(180deg); /* Opera */
+            }
+        }
+    }
+    
+}
